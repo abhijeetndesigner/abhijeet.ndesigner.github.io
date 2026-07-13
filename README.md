@@ -25,3 +25,5 @@ This portfolio is configured for static export and automated deployment via GitH
 ### Configuration
 The base path is configured for the domain root: `https://abhijeetndesigner.github.io/`.
 The deployment workflow is defined in `.github/workflows/deploy.yml`.
+The repository is hosted at `https://github.com/abhijeetndesigner/abhijeetndesigner.github.io`.
+
